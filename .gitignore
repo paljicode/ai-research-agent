@@ -1,0 +1,11 @@
+# Ignore sensitive environment variables
+.env
+
+# Ignore Python runtime caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE configuration folders
+.idea/
+.vscode/
